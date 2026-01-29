@@ -1,10 +1,29 @@
 {
   "propertyName": "Azka Guest House",
   "city": "Malang",
-  "welcomeText": "Selamat datang",
-  "runningText": "WiFi: AZKA_GUEST | Pass: 12345678 | WA FO: +62xxxxxxxxxx",
-  "assets": {
-    "logo": "/assets/logo.png",
-    "background": "/assets/wallpaper.jpg"
+
+  "branding": {
+    "logoUrl": "/assets/logo.png",
+    "wallpaperUrl": "/assets/wallpaper.jpg"
+  },
+
+  "text": {
+    "welcomeOnboarding": "Selamat datang di Azka Guest House",
+    "welcomeHome": "Semoga nyaman menginap 🙏",
+    "runningText": "WiFi: AZKA_GUEST | Pass: 12345678 | WA FO: +62xxxxxxxxxx"
+  },
+
+  "wifi": {
+    "ssid": "AZKA_GUEST",
+    "password": "12345678"
+  },
+
+  "slideshow": {
+    "enabled": true,
+    "intervalSeconds": 8,
+    "items": [
+      { "type": "image", "url": "/media/slide1.jpg" },
+      { "type": "image", "url": "/media/slide2.jpg" }
+    ]
   }
 }
