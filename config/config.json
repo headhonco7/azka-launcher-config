@@ -1,27 +1,10 @@
 {
-  "version": 1,
-  "propertyName": "De AZKA Guest House",
-  "wallpaperUrl": "wallpaper.jpg",
-  "logoUrl": "logo.png",
-
-  "clock": {
-    "enabled": true,
-    "format24h": true
-  },
-
-  "wifi": {
-    "enabled": true,
-    "title": "Wi-Fi Tamu",
-    "ssid": "GH-WIFI",
-    "password": "12345678",
-    "showQr": true
-  },
-
-  "apps": [
-    { "title": "YouTube", "package": "com.google.android.youtube.tv", "iconUrl": "icons/youtube.png" },
-    { "title": "Netflix", "package": "com.netflix.ninja", "iconUrl": "icons/netflix.png" },
-    { "title": "YouTube Kids", "package": "com.google.android.apps.youtube.kids", "iconUrl": "icons/kids.png" },
-    { "title": "IPTV", "package": "TO_BE_SET", "iconUrl": "icons/iptv.png" },
-    { "title": "Spotify", "package": "com.spotify.tv.android", "iconUrl": "icons/spotify.png" }
-  ]
+  "propertyName": "Azka Guest House",
+  "city": "Malang",
+  "welcomeText": "Selamat datang",
+  "runningText": "WiFi: AZKA_GUEST | Pass: 12345678 | WA FO: +62xxxxxxxxxx",
+  "assets": {
+    "logo": "/assets/logo.png",
+    "background": "/assets/wallpaper.jpg"
+  }
 }
