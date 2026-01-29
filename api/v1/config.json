@@ -1,0 +1,9 @@
+{
+  "propertyName": "De Azka Guest House",
+  "welcomeText": "Selamat datang",
+  "runningText": "WiFi tersedia. Hubungi FO via WhatsApp untuk bantuan.",
+  "assets": {
+    "logo": "https://headhonco7.github.io/azka-launcher-backend/assets/logo.png",
+    "background": "https://headhonco7.github.io/azka-launcher-backend/assets/background.jpg"
+  }
+}
