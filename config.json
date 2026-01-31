@@ -1,8 +1,8 @@
 {
   "propertyName": "De AZKA Guest House",
   "city": "Malang",
-  "wifi": { "ssid": "De AZKA WiFi", "password": "12345678" },
-  "whatsapp": { "number": "+62851 22000 590", "label": "Front Office" },
+  "wifi": { "ssid": "De AZKA WiFi", "password": "hurufkecilsemua" },
+  "whatsapp": { "number": "0851 22000 590", "label": "Front Office" },
   "branding": {
     "wallpaperUrl": "https://headhonco7.github.io/azka-launcher-config/assets/wallpaper.jpg",
     "logoUrl": "https://headhonco7.github.io/azka-launcher-config/assets/logo.png"
